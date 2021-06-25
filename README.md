@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Alysson Drews</h1>
 
-<!--
-**AlyssonDrews/alyssondrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hello there 👋</h3>
 
-Here are some ideas to get you started:
+## [PORTUGUESE]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> 💬  &nbsp; Desenvolvedor Backend.
+<br/> 🖥️  &nbsp; Estudando para me tornar DevOps.
+<br/> 🧠  &nbsp; Sempre disposto em aprender e compartilhar.
+<br/> ⚙️  &nbsp; Familiarizado com: `.js`, `.ts`, `.py`.
+<br/> ✉️  &nbsp; Entre em contato:
+   - [Linkedin](https://www.linkedin.com/in/alyssondrews)
+   - Email: alyssondrewws@gmai.com
+
+## [ENGLISH]
+
+<br/> 💬  &nbsp; Backend Developer.
+<br/> 🖥️  &nbsp; Studying to be DevOps.
+<br/> 🧠  &nbsp; Always willing to learn and share.
+<br/> ⚙️  &nbsp; Daily used: `.js`, `.ts`, `.py`.
+<br/> ✉️  &nbsp; Contact me:
+   - [Linkedin](https://www.linkedin.com/in/alyssondrews)
+   - Email: alyssondrewws@gmai.com
