@@ -10,7 +10,7 @@
 <br/> ⚙️  &nbsp; Familiarizado com: `.js`, `.ts`, `.py`.
 <br/> ✉️  &nbsp; Entre em contato:
    - [Linkedin](https://www.linkedin.com/in/alyssondrews)
-   - Email: alyssondrewws@gmai.com
+   - Email: alyssondrewws@gmail.com
 
 ## [ENGLISH]
 
@@ -20,4 +20,4 @@
 <br/> ⚙️  &nbsp; Daily used: `.js`, `.ts`, `.py`.
 <br/> ✉️  &nbsp; Contact me:
    - [Linkedin](https://www.linkedin.com/in/alyssondrews)
-   - Email: alyssondrewws@gmai.com
+   - Email: alyssondrewws@gmail.com
