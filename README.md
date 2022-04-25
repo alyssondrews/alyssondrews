@@ -5,9 +5,9 @@
 ## [PORTUGUESE]
 
 <br/> 💬  &nbsp; Desenvolvedor Backend.
-<br/> 🖥️  &nbsp; Estudando para me tornar DevOps.
+<br/> 🖥️  &nbsp; Estudando para me tornar DBA.
 <br/> 🧠  &nbsp; Sempre disposto em aprender e compartilhar.
-<br/> ⚙️  &nbsp; Familiarizado com: `.js`, `.ts`, `.py`.
+<br/> ⚙️  &nbsp; Familiarizado com: `.js`, `.ts`, `.py`, `.go`.
 <br/> ✉️  &nbsp; Entre em contato:
    - [Linkedin](https://www.linkedin.com/in/alyssondrews)
    - Email: alyssondrewws@gmail.com
@@ -15,9 +15,9 @@
 ## [ENGLISH]
 
 <br/> 💬  &nbsp; Backend Developer.
-<br/> 🖥️  &nbsp; Studying to be DevOps.
+<br/> 🖥️  &nbsp; Studying to be DBA.
 <br/> 🧠  &nbsp; Always willing to learn and share.
-<br/> ⚙️  &nbsp; Daily used: `.js`, `.ts`, `.py`.
+<br/> ⚙️  &nbsp; Daily used: `.js`, `.ts`, `.py`, `.go`.
 <br/> ✉️  &nbsp; Contact me:
    - [Linkedin](https://www.linkedin.com/in/alyssondrews)
    - Email: alyssondrewws@gmail.com
