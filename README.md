@@ -5,7 +5,6 @@
 ## [PORTUGUESE]
 
 <br/> 💬  &nbsp; Desenvolvedor Backend.
-<br/> 🖥️  &nbsp; Estudando para me tornar DBA.
 <br/> 🧠  &nbsp; Sempre disposto em aprender e compartilhar.
 <br/> ⚙️  &nbsp; Familiarizado com: `.js`, `.ts`, `.py`, `.go`.
 <br/> ✉️  &nbsp; Entre em contato:
@@ -15,7 +14,6 @@
 ## [ENGLISH]
 
 <br/> 💬  &nbsp; Backend Developer.
-<br/> 🖥️  &nbsp; Studying to be DBA.
 <br/> 🧠  &nbsp; Always willing to learn and share.
 <br/> ⚙️  &nbsp; Daily used: `.js`, `.ts`, `.py`, `.go`.
 <br/> ✉️  &nbsp; Contact me:
